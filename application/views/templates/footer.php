@@ -6,5 +6,13 @@
       </div>
       <div class="col-md-6"></div>
       </div>
+      <div class="col-12">
+      	<div class="col-md-6">
+      		<span>Explora</span>
+      	</div>
+      	<div class="col-md-6">
+      		
+      	</div>
+      </div>
     </div>
   </footer> 
