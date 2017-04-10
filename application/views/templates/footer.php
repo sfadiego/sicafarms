@@ -1,5 +1,10 @@
- <footer class="footer">
+ <footer class="footer container-fluid  background-color-blanco">
     <div class="container">
-      <p class="text-muted">Place sticky footer content here.</p>
+      <div class="col-md-12">
+      	<div class="col-md-6">
+      	<img src="http://localhost/sicafarms//img/sicafarmsLogo.png" alt="" class="img-responsive">
+      </div>
+      <div class="col-md-6"></div>
+      </div>
     </div>
   </footer> 

@@ -7,6 +7,7 @@ html {
 body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
+  background: #88d43b;
 }
 .footer {
   position: absolute;
@@ -16,17 +17,36 @@ body {
   height: 60px;
   background-color: #f5f5f5;
 }
-
+a{
+	text-decoration: none;
+	color:white;
+}
 /*Footer
 ------------------------------------------------*/
-.div-fuera-atras-130{
+/*.div-fuera-atras-130{
 	position: relative;
     bottom: 200px;
     z-index: -1;
+}*/
+.title-grey{
+	color:#7d7d7d;
 }
 .background-color-verde{
 	background: #88d43b;
 }
+.background-color-gris{
+background: #d8d8d8;
+}
+.background-color-blanco{
+	background: white;
+}
+.altura-220{
+	height: 220px;
+}
+.altura-100{
+	height: 100px;
+}
+
 .navbar-brand{
 	height: 70px !important;
 }
@@ -36,8 +56,23 @@ body {
 .padding-top-6{
 	    padding-top: 6px !important;
 }
+.padding-top-25{
+	padding-top: 25px !important;
+}
 .padding-top-200{
 	padding-top: 200px;
+}
+.padding-bottom-50{
+	padding-bottom: 50px;
+}
+.padding-bottom-100{
+	padding-bottom: 100px;
+}
+.padding-bottom-50{
+	padding-bottom: 50px;
+}
+.padding-bottom-20{
+	padding-bottom: 20px;
 }
 
 /* Custom css
@@ -67,7 +102,9 @@ nav.navbar.navbar-default{
 .carousel-control.right{
 	background-image: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0,0,0,.0001) 100%);
 }
-
+div#carousel-example-generic{
+	background: white;
+}
 .text-top-out-1{
 	
     margin: 0px auto;
@@ -75,6 +112,51 @@ nav.navbar.navbar-default{
     background: #fffeed;
     position: relative;
     bottom: 120px;
+}
+.title-size-1{
+	    color: white;
+    font-size: 70px;
+    font-weight: 800;
+    letter-spacing: 4px;
+}
+.title-size-2{
+	 color: white;
+    font-size: 60px;
+    font-weight: 800;
+    /*letter-spacing: 4px;*/
+}
+.letter-white{
+	color: white;	
+}
+.paragraph-size-20{
+	font-size: 20px;
+}
+.form-contacto{
+	    padding: 100px 100px 100px 100px;
+}
+.form-contacto select,
+.form-contacto input{
+	color: #999;
+    height: 75px;
+    font-size: 24px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.form-boton-enviar:hover,
+.form-boton-enviar{
+	background: #757779;
+	color: white;
+	padding: 15px 60px;
+    font-size: 30px;
+    border-radius: 0px;
+}
+
+.titulo-form{
+	    font-size: 60px;
+    font-weight: 600;
+    padding-bottom: 40px;
 }
 /* Custom css
 ----------------------------------------------*/

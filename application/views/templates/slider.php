@@ -9,13 +9,13 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=1900%C3%97800&w=1900&h=800" alt="...">
+      <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=1950%C3%97800&w=1950&h=800" alt="...">
       <div class="carousel-caption">
      <span>VER PRODUCTO</span>
       </div>
     </div>
     <div class="item">
-      <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=1900%C3%97800&w=1900&h=800" alt="...">
+      <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=1950%C3%97800&w=1950&h=800" alt="...">
       <div class="carousel-caption">
      <span>VER PRODUCTO</span>
       </div>
